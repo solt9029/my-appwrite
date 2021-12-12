@@ -1,4 +1,4 @@
-## appwrite for solt9029
+## appwrite for me
 This appwrite has been initialized with the following command.
 
 ```sh
